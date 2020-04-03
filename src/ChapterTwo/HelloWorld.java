@@ -1,3 +1,5 @@
+package ChapterTwo;
+
 public class HelloWorld {
     public static void main (String[]args ){
         int hours = 40;

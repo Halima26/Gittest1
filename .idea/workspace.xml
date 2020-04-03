@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22274367-1201-4535-ae64-d9540e51f7ad" name="Default Changelist" comment="" />
+    <list default="true" id="22274367-1201-4535-ae64-d9540e51f7ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChapterTwo/StarExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChapterTwo/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChapterTwo/chapter1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/excercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChapterTwo/Personal_Info.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZaXzq2ewJP5SK1Ac23tnWOEryD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,25 +32,26 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.excercise2">
+  <component name="RunManager" selected="Application.Personal_Info">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <option name="MAIN_CLASS_NAME" value="ChapterTwo.HelloWorld" />
+      <module name="MyFirstProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Personal_Info" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChapterTwo.Personal_Info" />
       <module name="MyFirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="chapter1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1" />
-      <module name="MyFirstProject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="excercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excercise2" />
+      <option name="MAIN_CLASS_NAME" value="ChapterTwo.chapter1" />
       <module name="MyFirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -48,7 +59,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.excercise2" />
+        <item itemvalue="Application.Personal_Info" />
         <item itemvalue="Application.chapter1" />
         <item itemvalue="Application.HelloWorld" />
       </list>
@@ -68,30 +79,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="177" key="GridCell.Tab.0.bottom" timestamp="1585356304351">
+    <state x="378" y="165" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1585889130996">
+      <screen x="0" y="23" width="1280" height="717" />
+    </state>
+    <state x="378" y="165" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1280.717@0.23.1280.717" timestamp="1585889130996" />
+    <state x="414" y="269" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585889132447">
+      <screen x="0" y="23" width="1280" height="717" />
+    </state>
+    <state x="414" y="269" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1280.717@0.23.1280.717" timestamp="1585889132447" />
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom" timestamp="1585889317155">
       <screen x="0" y="23" width="1280" height="717" />
     </state>
     <state width="1238" height="177" key="GridCell.Tab.0.bottom/0.23.1280.714@0.23.1280.714" timestamp="1585113715879" />
     <state width="1238" height="177" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1585269156536" />
-    <state width="1238" height="177" key="GridCell.Tab.0.bottom/0.23.1280.717@0.23.1280.717" timestamp="1585356304351" />
-    <state width="1238" height="177" key="GridCell.Tab.0.center" timestamp="1585356304350">
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1280.717@0.23.1280.717" timestamp="1585889317155" />
+    <state width="1238" height="175" key="GridCell.Tab.0.center" timestamp="1585889317154">
       <screen x="0" y="23" width="1280" height="717" />
     </state>
     <state width="1238" height="177" key="GridCell.Tab.0.center/0.23.1280.714@0.23.1280.714" timestamp="1585113715879" />
     <state width="1238" height="177" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1585269156536" />
-    <state width="1238" height="177" key="GridCell.Tab.0.center/0.23.1280.717@0.23.1280.717" timestamp="1585356304350" />
-    <state width="1238" height="177" key="GridCell.Tab.0.left" timestamp="1585356304350">
+    <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1280.717@0.23.1280.717" timestamp="1585889317154" />
+    <state width="1238" height="175" key="GridCell.Tab.0.left" timestamp="1585889317153">
       <screen x="0" y="23" width="1280" height="717" />
     </state>
     <state width="1238" height="177" key="GridCell.Tab.0.left/0.23.1280.714@0.23.1280.714" timestamp="1585113715878" />
     <state width="1238" height="177" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1585269156535" />
-    <state width="1238" height="177" key="GridCell.Tab.0.left/0.23.1280.717@0.23.1280.717" timestamp="1585356304350" />
-    <state width="1238" height="177" key="GridCell.Tab.0.right" timestamp="1585356304350">
+    <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1280.717@0.23.1280.717" timestamp="1585889317153" />
+    <state width="1238" height="175" key="GridCell.Tab.0.right" timestamp="1585889317155">
       <screen x="0" y="23" width="1280" height="717" />
     </state>
     <state width="1238" height="177" key="GridCell.Tab.0.right/0.23.1280.714@0.23.1280.714" timestamp="1585113715879" />
     <state width="1238" height="177" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1585269156536" />
-    <state width="1238" height="177" key="GridCell.Tab.0.right/0.23.1280.717@0.23.1280.717" timestamp="1585356304350" />
+    <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1280.717@0.23.1280.717" timestamp="1585889317155" />
     <state x="232" y="23" width="816" height="716" key="find.popup" timestamp="1585269139806">
       <screen x="0" y="23" width="1280" height="716" />
     </state>
